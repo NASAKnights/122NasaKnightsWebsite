@@ -1,5 +1,5 @@
 # 122NasaKnightsWebsite
-Yes
-https://nightfox054.github.io/122NasaKnightsWebsite/
+Repository Containing the 122 Nasa Knights website
 
-https://nasaknights.github.io/122NasaKnightsWebsite/
+Direct Link:
+https://nasaknights.github.io/
