@@ -630,7 +630,8 @@ a:visited {
 
 .sponsorsResponsiveBig {
   background-color: var(--mediumnavy);  
-  padding: 0 6px;
+  /* padding: 0 6px; */
+  padding: 0 0.5%;
   float: left;
   display: table;
   width: 48.5%;
@@ -639,7 +640,8 @@ a:visited {
 
 .sponsorsResponsiveMed {
   background-color: var(--mediumnavy);  
-  padding: 0 3px;
+  /* padding: 0 3px; */
+  padding: 0 0.5%;
   float: left;
   display: table;
   width: 24%;
@@ -647,7 +649,8 @@ a:visited {
 
 .sponsorsResponsiveSmall {
   background-color: var(--mediumnavy);  
-  padding: 0 1px;
+  /* padding: 0 1px; */
+  padding: 0 0.5%;
   float: left;
   display: table;
   width: 12%;
